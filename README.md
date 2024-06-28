@@ -1,7 +1,7 @@
 # SeminarioBigData
 Marco David Suarez, estudiante y desarrollador. 
 
-## Habilidades##
+## Habilidades ##
 Dominio de lenguajes de programación como: Python, Java, JavaScript, C#, etc.
 Conocimiento de frameworks y bibliotecas relevantes como: React.js.
 Entendimiento de bases de datos y capacidad para diseñar esquemas eficientes (SQL y NoSQL).
