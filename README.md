@@ -13,4 +13,4 @@ Marco David Suarez, estudiante y desarrollador.
 ## Experiencia en proyectos ##
 - Servientrega - 1 año 6 meses.
 - Corficolombiana - 1 año 6 meses.
-- Fiscalía General de la Nación - 5 meses.
+- Consejo superior de la judicatura - 5 meses.
